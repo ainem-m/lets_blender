@@ -1,7 +1,12 @@
 ---
 marp: true
-theme: default
+theme: gaia
 paginate: true
+style: |
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+  section, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans JP', sans-serif;
+  }
 ---
 
 # 作って学ぶ！Blender入門 輪読会
